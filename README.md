@@ -72,7 +72,7 @@ AI-powered app using DistilBART to summarize news articles instantly with adjust
 
 ### 📫 Connect with me  
 - 📧 Email: kraryan2028@gmail.com
-- 💼 LinkedIn: www.linkedin.com/in/kumar-aryan-a93758347 
+- 💼 LinkedIn: www.linkedin.com/in/kumar-aryan-7777b631b 
 
 ---
 
