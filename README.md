@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Banner" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Kumar Aryan</h1>
 <h3 align="center">Cloud & AI/ML Enthusiast | 2nd Year BE Student | C++ • Java • Python</h3>
 
