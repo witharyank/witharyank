@@ -55,9 +55,10 @@ AI-powered app using DistilBART to summarize news articles instantly with adjust
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=witharyank&show_icons=true&theme=github_dark" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=witharyank&layout=compact&theme=github_dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=witharyank&show_icons=true&theme=tokyonight&cache_seconds=1800" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=witharyank&layout=compact&theme=tokyonight&cache_seconds=1800" height="150"/>
 </p>
+
 
 ---
 
