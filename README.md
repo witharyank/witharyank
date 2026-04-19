@@ -2,79 +2,107 @@
   <img src="banner.png" alt="Banner" width="60%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Kumar Aryan</h1>
-<h3 align="center">Cloud & AI/ML Enthusiast | 2nd Year BE Student | C++ • Java • Python</h3>
+<h1 align="center">Kumar Aryan</h1>
+<h3 align="center">Computer Science Undergraduate | Backend Development | Cloud Computing | Open Source Contributor</h3>
 
 ---
 
-### 🚀 About Me
-- 🎓 I'm a **2nd-year BE student** passionate about **Cloud Computing** and **AI/ML**
-- ☁️ Strong interest in cloud architecture, serverless computing, and scalable systems  
-- 🤖 I also enjoy training ML models and experimenting with datasets  
-- 💻 Comfortable with **C++**, **Java**, and **Python**  
-- 🌩 Familiar with **AWS services** and **microservices architecture**  
-- 🌱 Currently learning **Spring Boot** and improving my understanding of **PyTorch**  
-- 🔍 Always exploring new tech in cloud, backend, and machine learning
+## About Me
+
+Computer Science undergraduate with strong interest in backend systems, cloud infrastructure, and scalable applications.  
+Experienced with Java, Python, and C++.  
+Actively building real-world projects and contributing to open-source repositories.
+
+Currently focused on:
+- Backend development with Java and Spring Boot
+- Cloud computing and AWS services
+- API development and system design
+- Applied AI/ML projects
 
 ---
 
-### 🧠 **Skills & Tech Stack**
+## Technical Skills
 
-#### 🗣 Programming Languages  
-- **C++**, **Java**, **Python**
+### Languages
+- Java
+- Python
+- C++
 
-#### ☁️ Cloud & Backend  
-- **AWS Fundamentals** (EC2, S3, IAM, Lambda basics)  
-- **Microservices Concepts**  
-- **Serverless basics**  
-- **Spring Boot (beginner)**  
-- REST API development (learning)
+### Backend & Cloud
+- Spring Boot
+- REST APIs
+- AWS (EC2, S3, IAM, Lambda)
+- Microservices Fundamentals
 
-#### 🤖 AI / ML  
-- Model training on datasets  
-- Basic **PyTorch** experience  
-- Data preprocessing & ML workflows  
+### Databases
+- MySQL
+- SQLite
 
-#### 🛠 Tools & Other Technologies  
-- Git & GitHub  
-- SQLite / MySQL basics  
-- VS Code / IntelliJ / Jupyter Notebook  
+### Tools
+- Git
+- GitHub
+- VS Code
+- IntelliJ IDEA
+- Jupyter Notebook
 
----
-
-## 📌 Featured Projects
-
-#### ☁️ **SmartHealthcareDBMS** — C++ & SQLite  
-A healthcare prediction system that analyzes symptoms, stores patient data, and predicts diseases using a custom query engine.
-
-#### 📰 **News Summarizer** — Python, Streamlit  
-AI-powered app using DistilBART to summarize news articles instantly with adjustable length.
+### AI / ML
+- PyTorch
+- Model Training
+- Data Preprocessing
+- NLP Applications
 
 ---
 
-### 📊 GitHub Stats
+## Projects
+
+### SmartHealthcareDBMS
+Healthcare system built using C++ and SQLite for patient data management, symptom analysis, and disease prediction workflows.
+
+### News Summarizer
+AI-powered article summarization application built with Python, Streamlit, and DistilBART.
+
+### CI/CD Pipeline on AWS
+Implemented deployment workflow using Jenkins on AWS EC2 for automated build and release processes.
+
+---
+
+## Open Source Contributions
+
+- Contributed to public GitHub repositories through pull requests
+- Experience working with forks, feature branches, and code reviews
+- Improved test coverage and validation for CLI tools
+- Actively exploring production-grade codebases
+
+---
+
+## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=witharyank&show_icons=true&theme=tokyonight&cache_seconds=1800" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=witharyank&layout=compact&theme=tokyonight&cache_seconds=1800" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=witharyank&show_icons=true&theme=default&cache_seconds=300" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=witharyank&layout=compact&theme=default&cache_seconds=300" height="150"/>
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=witharyank&theme=default" height="150"/>
+</p>
 
 ---
 
-### 🎯 Current Goals
-- Deepen knowledge of **AWS & Cloud Architecture**  
-- Build **cloud-native projects** (serverless apps, microservices, deployments)  
-- Improve ML model development using PyTorch  
-- Learn Spring Boot for backend services  
-- Deploy ML models to cloud environments  
+## Current Focus
+
+- Strengthening backend development skills
+- Building cloud-native applications
+- Contributing consistently to open source
+- Advancing problem solving and DSA
+- Deploying production-ready projects
 
 ---
 
-### 📫 Connect with me  
-- 📧 Email: kraryan2028@gmail.com
-- 💼 LinkedIn: www.linkedin.com/in/kumar-aryan-7777b631b 
+## Contact
+
+Email: kraryan2028@gmail.com  
+LinkedIn: www.linkedin.com/in/kumar-aryan-7777b631b
 
 ---
 
-⭐ **If you like my work, feel free to star ⭐ my repositories!**
+If you find my work interesting, feel free to explore my repositories.
