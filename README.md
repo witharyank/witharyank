@@ -1,119 +1,83 @@
 <p align="center">
-  <img src="banner.png" alt="Banner" width="70%">
+  <img src="banner.png" alt="Banner" width="75%">
 </p>
 
 <h1 align="center">Kumar Aryan</h1>
-<h3 align="center">Computer Science Undergraduate | Backend Engineer | Cloud & Systems Enthusiast | Open Source Contributor</h3>
+<h3 align="center">Computer Science Undergraduate | Backend Developer | Cloud & Systems Engineering</h3>
 
 ---
 
-## Profile
+## About
 
-Computer Science undergraduate focused on building reliable backend systems, scalable APIs, and cloud-based applications. Strong foundation in Java, Python, and C++ with practical experience in software development, automation, and problem solving.
+Computer Science undergraduate with strong interest in backend development, scalable systems, and cloud infrastructure. Experienced in Java, Python, and C++ with practical exposure to API development, automation, databases, and software engineering workflows.
 
-Interested in distributed systems, backend architecture, DevOps workflows, and production-grade engineering practices.
+Focused on building efficient applications, improving system reliability, and contributing to real-world open source projects.
 
 ---
 
-## Core Skills
+## Technical Skills
 
-### Programming Languages
-- Java
-- Python
-- C++
+### Languages
+Java • Python • C++
 
-### Backend Development
-- Spring Boot
-- REST API Development
-- Object-Oriented Design
-- MVC Architecture
-- Authentication Basics
+### Backend
+Spring Boot • REST APIs • OOP • MVC • Authentication
 
-### Cloud & DevOps
-- AWS EC2
-- AWS S3
-- AWS IAM
-- AWS Lambda
-- Jenkins
-- CI/CD Pipelines
-- Linux Fundamentals
+### Cloud / DevOps
+AWS EC2 • AWS S3 • AWS IAM • AWS Lambda • Jenkins • CI/CD • Linux
 
 ### Databases
-- MySQL
-- SQLite
+MySQL • SQLite
 
-### Tools & Platforms
-- Git
-- GitHub
-- IntelliJ IDEA
-- VS Code
-- Postman
-- Jupyter Notebook
+### Tools
+Git • GitHub • IntelliJ IDEA • VS Code • Postman
 
-### AI / Machine Learning
-- PyTorch
-- NLP Applications
-- Data Preprocessing
-- Model Training
+### AI / ML
+PyTorch • NLP • Data Processing • Model Training
 
 ---
 
 ## Projects
 
-### SmartHealthcareDBMS
-Developed a healthcare management system using C++ and SQLite for storing patient records, symptom analysis, and disease prediction workflows.
-
 ### AI News Summarizer
-Built an NLP-based summarization platform using Python, Streamlit, and DistilBART to generate concise summaries of news articles.
+Built a Python and Streamlit application using DistilBART for automated article summarization.
 
 ### CI/CD Pipeline on AWS
-Implemented an automated deployment pipeline using Jenkins hosted on AWS EC2 for build, test, and deployment automation.
+Implemented Jenkins-based deployment automation on AWS EC2.
 
-### Stock & Inventory Management System
-Created a structured inventory management application for product tracking and operational efficiency.
+### SmartHealthcareDBMS
+Developed a C++ and SQLite healthcare record management system.
 
----
-
-## Open Source Contributions
-
-- Contributed to public repositories through pull requests
-- Worked with forks, feature branches, and collaborative workflows
-- Improved validation, documentation, and testing
-- Gaining experience in real-world production codebases
+### Inventory Management System
+Created a structured application for stock monitoring and operations tracking.
 
 ---
 
-## GitHub Statistics
+## Open Source
+
+- Pull requests to public repositories  
+- Feature branch workflows  
+- Code improvements, validation, and testing  
+- Experience with collaborative development practices
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=witharyank&show_icons=true&theme=default&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=witharyank&layout=compact&theme=default&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=witharyank&theme=default&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=witharyank&show_icons=true&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=witharyank&layout=compact&hide_border=true" height="160"/>
 </p>
 
 ---
 
 ## Current Focus
 
-- Backend Engineering with Java & Spring Boot
-- System Design Fundamentals
-- Cloud Architecture on AWS
-- Data Structures & Algorithms
-- Open Source Contributions
-- Building Production-Ready Projects
+Backend Engineering • Spring Boot • System Design • AWS • DSA • Open Source
 
 ---
 
-## Connect
+## Contact
 
 Email: kraryan2028@gmail.com  
-LinkedIn: www.linkedin.com/in/kumar-aryan-7777b631b
-
----
-
-## Philosophy
-
-Consistent progress, strong fundamentals, and real-world execution.
+LinkedIn: linkedin.com/in/kumar-aryan-7777b631b
