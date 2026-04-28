@@ -15,9 +15,9 @@
 
 ## Profile
 
-Computer Science undergraduate focused on backend engineering, scalable systems, and cloud infrastructure. Strong foundation in Java, Python, and C++ with hands-on experience in REST API development, automation, databases, and production-oriented software workflows.
+Computer Science undergraduate focused on backend engineering, scalable systems, and cloud infrastructure. Strong foundation in Java, Python, and C++ with practical experience in software development, REST APIs, automation, databases, and deployment workflows.
 
-Interested in distributed systems, backend architecture, DevOps pipelines, and building reliable applications that solve real problems.
+Interested in distributed systems, cloud-native applications, backend architecture, DevOps practices, and solving real-world engineering problems.
 
 ---
 
@@ -46,33 +46,37 @@ PyTorch • NLP • Data Processing • Model Training
 ## Projects
 
 ### AI News Summarizer
-Developed a Python and Streamlit application using DistilBART for automated summarization of news articles with an interactive web interface.
+Built a Python and Streamlit application using DistilBART for intelligent summarization of news articles.
 
 ### CI/CD Pipeline on AWS
-Built an automated Jenkins deployment pipeline hosted on AWS EC2 to streamline build and release workflows.
+Implemented an automated Jenkins deployment workflow on AWS EC2 for continuous integration and delivery.
 
 ### SmartHealthcareDBMS
-Designed a healthcare management system using C++ and SQLite for storing and managing patient records efficiently.
+Developed a healthcare database management system using C++ and SQLite for secure record handling.
 
 ### Inventory Management System
-Created a structured inventory solution for stock tracking, item management, and operational monitoring.
+Created an inventory tracking solution for stock monitoring and operational management.
 
 ---
 
 ## Open Source Contributions
 
-- Contributed code changes and feature enhancements to public repositories  
-- Worked with branching, pull requests, and review-based workflows  
-- Improved code quality through debugging, validation, and testing  
-- Gained practical experience in collaborative software development
+- Pull requests to public repositories  
+- Feature branch workflows  
+- Bug fixing, testing, and validation  
+- Real-world collaborative development practices
 
 ---
 
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=witharyank&show_icons=true&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=witharyank&layout=compact&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=witharyank&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800&v=3" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=witharyank&layout=compact&hide_border=true&langs_count=8&cache_seconds=1800&v=3" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=witharyank&hide_border=true&area=true&custom_title=Contribution%20Graph&v=3" width="95%"/>
 </p>
 
 ---
