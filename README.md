@@ -75,10 +75,6 @@ Created an inventory tracking solution for stock monitoring and operational mana
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=witharyank&layout=compact&theme=radical&hide_border=true" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=witharyank&theme=radical&hide_border=true" width="95%"/>
-</p>
-
 ---
 
 ## Current Focus
